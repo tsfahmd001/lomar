@@ -1,4 +1,4 @@
-This dissertation submitted to JNTUH, Hyderabad in partial fulfillment of the academic requirements for the award of the degree:
+This dissertation was submitted to JNTUH, Hyderabad in partial fulfillment of the academic requirements for the award of the degree:
 **Bachelor of Technology**
 in
 **Computer Science and Engineering (AI&ML)**
@@ -12,6 +12,11 @@ Contibutors
 3. Shaik Shoaib Hannan
 
 Refer official documentation for detailed report
+
+Refer **Proof-of-Concept** for label flipping attack:
+https://github.com/tsfahmd001/lomar_attack_demo
+
+**Read more:** https://medium.com/@tsfahmd01/when-ai-model-learns-lies-my-federated-learning-poisoning-experiment-7e7cbc05786e
 
 # LoMar - A Local Defence Against Poisoning Attack on Federated Learning
 
